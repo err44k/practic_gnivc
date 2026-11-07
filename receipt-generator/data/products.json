@@ -1,0 +1,27 @@
+[
+    {
+        "item_name": "Молоко",
+        "item_price": 420.00,
+        "item_type": 1
+    },
+    {
+        "item_name": "Хлеб",
+        "item_price": 290.00,
+        "item_type": 2
+    },
+    {
+        "item_name": "Сыр",
+        "item_price": 650.00,
+        "item_type": 1
+    },
+    {
+        "item_name": "Яблоки",
+        "item_price": 180.00,
+        "item_type": 3
+    },
+    {
+        "item_name": "Кофе",
+        "item_price": 750.00,
+        "item_type": 4
+    }
+]

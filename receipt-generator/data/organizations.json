@@ -1,0 +1,17 @@
+[
+    {
+        "org_id": 1,
+        "org_name": "ООО Ромашка",
+        "legal_form": "ООО"
+    },
+    {
+        "org_id": 2,
+        "org_name": "ИП Иванов",
+        "legal_form": "ИП"
+    },
+    {
+        "org_id": 3,
+        "org_name": "ООО Продукты",
+        "legal_form": "ООО"
+    }
+]
